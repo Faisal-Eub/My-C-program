@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Largest and Smallest number in an Array", "Find Largest and Smallest number in an Array\Find Largest and Smallest number in an Array.csproj", "{C8F37AD7-1789-4FE9-A468-31E72484146D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Largest and Smallest number in an Array", "Find Largest and Smallest number in an Array\Find Largest and Smallest number in an Array.csproj", "{C8F37AD7-1789-4FE9-A468-31E72484146D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get Length of the Array  ( 1D_and_2D )", "Get Length of the Array  ( 1D_and_2D )\Get Length of the Array  ( 1D_and_2D ).csproj", "{323BF6CA-B9CE-4590-9EB6-DDE145D8AD1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Get Length of the Array  ( 1D_and_2D )", "Get Length of the Array  ( 1D_and_2D )\Get Length of the Array  ( 1D_and_2D ).csproj", "{323BF6CA-B9CE-4590-9EB6-DDE145D8AD1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged Array", "Jagged Array\Jagged Array.csproj", "{AC924419-3133-48FB-8526-C6E172E88386}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{323BF6CA-B9CE-4590-9EB6-DDE145D8AD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{323BF6CA-B9CE-4590-9EB6-DDE145D8AD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{323BF6CA-B9CE-4590-9EB6-DDE145D8AD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC924419-3133-48FB-8526-C6E172E88386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC924419-3133-48FB-8526-C6E172E88386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC924419-3133-48FB-8526-C6E172E88386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC924419-3133-48FB-8526-C6E172E88386}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
