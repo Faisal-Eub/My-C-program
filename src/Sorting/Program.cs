@@ -5,15 +5,15 @@ namespace Reverse_Array
     {
         static void Main(string[] agrs)
         {
-            int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            int[] arr = { 16, 5, 4, 1, 10 };
 
             Console.WriteLine("Original Array: ");
             foreach (int i in arr)
                 Console.WriteLine(i);
 
-            Array.Reverse(arr);
+            Array.Sort(arr);
 
-            Console.WriteLine("\nReverse Array: ");
+            Console.WriteLine("\nSorting Array: ");
             foreach (int i in arr)
                 Console.WriteLine(i);
         }
